@@ -6,8 +6,8 @@
 *.exe
 *.o
 *.so
-Phoneword/bin/**
-Phoneword/obj/**
+Phoneword_ios/bin/**
+Phoneword_ios/obj/**
 
 # Packages #
 ############
